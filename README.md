@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @jerome-05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Conducted a comparative study of various Machine Learning models along with hyperparameter tuning and feature selection techniques to optimize predicting income of supermarket sales and achieved 99% accuracy for LASSO Regression model.
 
-<!---
-jerome-05/jerome-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Preprocessing Techniques used:
+# Droping of unwanted columns
+# Droping of unwanted values
+# Converting categorical variables to numerical variables using Label encoder
+
+Models Built:
+# Linear Regression
+# Polynomial Regression
+# Ridge Regression
+# LASSO Regression
+# KNN Regression
+
+Hyperparameter - Tuning using
+# Gridsearch CV
+
+Feature Selection using
+# F- Regression
+# Select-k-best 
