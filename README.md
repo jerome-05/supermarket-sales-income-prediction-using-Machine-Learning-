@@ -1,4 +1,4 @@
-# 📊 **Supermarket Sales Prediction: A Machine Learning Approach** 🚀
+# 📊 **A MACHINE LEARNING STUDY ON SUPER MARKET SALES DATASET** 🚀
 
 ## 🔍 **Project Overview**
 This project explores various **Machine Learning models** to optimize the prediction of **supermarket sales income**. By leveraging **hyperparameter tuning** and **feature selection techniques**, we successfully achieved an **impressive 99% accuracy** using **LASSO Regression**! 🎯
